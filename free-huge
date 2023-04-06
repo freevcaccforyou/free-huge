@@ -1,0 +1,2 @@
+_G.Key = "freevcaccforyou"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KIDINApsx/versions/main/v1.lua"))()
